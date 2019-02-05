@@ -5,7 +5,7 @@ stacks:
     - 虚拟机
 ---
 
-## 利用 VMware 搭建 MAC-OS 复合工作系统
+## 利用 VMware + Windows10 任务视图 搭建 MAC-OS 复合工作系统
 > 参考资料：安装 MAC-OS 于 VMware 中 - https://jingyan.baidu.com/article/59a015e374a45bf795886542.html
 ### 第一步：下载并安装 VMWare Pro 15
 - 官网下载
