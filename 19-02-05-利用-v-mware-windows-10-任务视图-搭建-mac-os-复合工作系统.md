@@ -9,7 +9,7 @@ stacks:
 > 参考资料：安装 MAC-OS 于 VMware 中 - https://jingyan.baidu.com/article/59a015e374a45bf795886542.html
 ### 第一步：下载并安装 VMWare Pro 15
 - 官网下载
-- 激活序列号建议用正版，但我用的联合激活版本
+- 激活序列号建议用正版，也可以利用搜索引擎搜一个
 
 ### 第二步：阅读上述参考资料，在 VMware Pro 15 中安装 MAC-OS
 值得一提的是，我们需要在 VMware 中配置虚拟化引擎：
