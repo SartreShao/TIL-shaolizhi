@@ -18,6 +18,7 @@ stacks:
 - 勾选“虚拟化 IOMMU (IO 内存管理单元)(I)”
 
 如图：
+
 ![](http://lc-7085gfy8.cn-n1.lcfile.com/477f38952e90e25ea4e1.png)
 
 
