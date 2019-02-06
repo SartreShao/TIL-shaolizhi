@@ -1,5 +1,5 @@
 ---
-title: JavaScript Date() 对象
+title: 【JavaScript Date() 对象】
 date: 'Tue, 5 Feb 2019 23:13:07 +0800'
 stacks:
     - javascript

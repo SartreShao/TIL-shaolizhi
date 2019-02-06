@@ -1,5 +1,5 @@
 ---
-title: 利用 VMware + Windows10 任务视图 搭建 MAC-OS 复合工作系统
+title: 【利用 VMware + Windows10 任务视图 搭建 MAC-OS 复合工作系统】
 date: 'Tue, 5 Feb 2019 23:10:40 +0800'
 stacks:
     - VMware
