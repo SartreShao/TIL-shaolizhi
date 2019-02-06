@@ -1,5 +1,5 @@
 ---
-title: 安装 npm 的国内镜像 cnpm，并用它安装 vue cli
+title: 【VUE-CLI】使用 cnpm 安装 vue cli
 date: 'Tue, 5 Feb 2019 23:29:49 +0800'
 stacks:
     - nodejs
