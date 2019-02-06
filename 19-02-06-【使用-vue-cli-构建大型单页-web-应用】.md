@@ -44,7 +44,7 @@ vue -V
 由于我国网络部署了防火墙的原因，所以有可能会安装失败，因此我们需要使用 VPN 来进行安装。  
 如果没有 VPN 的读者，可以选择使用淘宝提供的 cnpm 镜像仓库进行安装。
 ##### cnpm 安装 vue-cli 教程如下
-> https://github.com/shaolizhi1234/TIL-shaolizhi/blob/master/19-02-05-%E3%80%90vue-cli%E3%80%91%E4%BD%BF%E7%94%A8-cnpm-%E5%AE%89%E8%A3%85-vue-cli.md
+> https://github.com/shaolizhi1234/TIL-shaolizhi/blob/master/19-02-05-%E3%80%90%E4%BD%BF%E7%94%A8-cnpm-%E5%AE%89%E8%A3%85-vue-cli%E3%80%91-1.md
 
 ### 使用 VUE-CLI 构建项目
 ```
